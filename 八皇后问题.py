@@ -30,7 +30,6 @@ def prettyprint(solution):
 	for pos in solution:
 		print(line(pos))
 
-if __name__ == "__main__":
 	prettyprint(random.choice(list(queens(8))))
 
 
