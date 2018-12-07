@@ -58,3 +58,4 @@ class Test(object):
 if __name__ == "__main__":
     strs = "abcdefgfedxyz"
     t = Test()
+    t.getLongestPalindrome(strs)
