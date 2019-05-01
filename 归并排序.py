@@ -58,5 +58,6 @@ def merge(left, right):
 
 alist = splitlist([[2, 4, 5], [1, 2, 3], [4, 5]])
 sorted_alist = merge_sort(alist)
+
 print(sorted_alist)
 
