@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bc316ccb-5703-46e1-85b3-fd91e8a09b25" name="Default" comment="归并排序">
-      <change beforePath="$PROJECT_DIR$/练习Git建立远程分支.py" beforeDir="false" afterPath="$PROJECT_DIR$/练习Git建立远程分支.py" afterDir="false" />
-    </list>
+    <list default="true" id="bc316ccb-5703-46e1-85b3-fd91e8a09b25" name="Default" comment="归并排序" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +38,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/归并排序.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="415">
+            <state relative-caret-position="723">
               <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
             </state>
           </provider>
@@ -599,7 +597,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/归并排序.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
+        <state relative-caret-position="723">
           <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
         </state>
       </provider>
