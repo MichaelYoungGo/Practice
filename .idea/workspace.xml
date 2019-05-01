@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bc316ccb-5703-46e1-85b3-fd91e8a09b25" name="Default" comment="归并排序" />
+    <list default="true" id="bc316ccb-5703-46e1-85b3-fd91e8a09b25" name="Default" comment="归并排序">
+      <change beforePath="$PROJECT_DIR$/练习Git建立远程分支.py" beforeDir="false" afterPath="$PROJECT_DIR$/练习Git建立远程分支.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +48,11 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/练习Git建立远程分支.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="20" lean-forward="true" selection-start-column="20" selection-end-column="20" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -380,6 +386,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4877651" visible="true" weight="0.29411766" />
       <window_info id="Structure" order="1" sideWeight="0.5122349" side_tool="true" visible="true" weight="0.29411766" />
@@ -598,7 +605,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/练习Git建立远程分支.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" lean-forward="true" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
