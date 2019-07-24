@@ -12,17 +12,19 @@ slots. In contrast, in most traditional hash tables, a change in the number
 of array slots causes nearly all keys to be remapped because the mapping 
 between the keys and the slots is defined by a modular operation."""
 
-
 servers = [
     "10.10.1.1",
     "10.10.2.2",
     "10.10.3.3",
     "10.10.4.4",
 ]
+
+
 class HashRing(object):
     """
      构造哈希环
     """
+
     def __init__(self, nodes=None, replicas=100):
         self.replicas = replicas
         self.ring = {}
@@ -85,6 +87,7 @@ class HashRing(object):
         ret = m.hexdigest()
         return ret
 
+
 def load_balance():
     """
     模拟服务器负载平衡
@@ -103,7 +106,6 @@ def load_balance():
         print("Server-%s:" % key, value)
     return database
 
-    print(database)
 
-if __name__=="__main__":
+if __name__ == "__main__":
     result = load_balance()
