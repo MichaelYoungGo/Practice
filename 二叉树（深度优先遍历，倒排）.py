@@ -60,7 +60,7 @@ class BinaryTree(object):
             else:
                 tree_node.right = new_node
                 self.queue.pop(0)
-     
+
 
 if __name__=="__main__":
     b_tree = BinaryTree()
