@@ -94,9 +94,9 @@ class BinaryTree(object):
 if __name__ == "__main__":
     b_tree = BinaryTree()
     dfs_sequence = Stack()
-    for i in xrange(1, 10):
+    for i in range(1, 10):
         b_tree.add_node(i)
     b_tree.DFS(b_tree.root, dfs_sequence)
-    print (dfs_sequence.items)
+    # print (dfs_sequence.items)
     result = dfs_sequence.revers()
-    print result
+    # print result
